@@ -1,0 +1,10 @@
+body {
+    background-color: red;
+    border: black;
+    border-width: 5px;
+}
+p {
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
